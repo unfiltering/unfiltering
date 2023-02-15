@@ -13,7 +13,7 @@
 
 <h3 align="left"></h3>
 <p align="left">
-<a href="https://pastebin.com/u/unfiltering" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPastebin.com&psig=AOvVaw2RAcNpfOpOSaDQ05akS5j3&ust=1676579184772000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPCE4KiumP0CFQAAAAAdAAAAABAE" alt="AB4XaW6VW8" height="30" width="40" /></a>
+<a href="https://pastebin.com/u/unfiltering" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/3/35/Pastebin.com_logo.png" alt="AB4XaW6VW8" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">stuff i know a lil bit</h3>
