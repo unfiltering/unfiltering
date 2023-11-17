@@ -1,15 +1,11 @@
 <h1 align="center">What's up? I'm unfiltering.</h1>
-<h3 align="center">i'm a 13 year old who really hates edgenuity.</h3>
+<h3 align="center">i'm a 13.</h3>
 
-- i've deobfuscated a few things like [an edgenuity script to search.](https://pastebin.com/KUBjvPzr)
-
-- the truth is i have no coding experience. **i use chatgpt to help me.**
+- script person who deobfuscade and skid thing :)
 
 - my projects are really available here [on pastebin](https://pastebin.com/u/unfiltering)
 
-- feel free to reach me at my discord. **float#8692**
-
-- or a more permanent way, snapchat, which is **snatchedn8**
+- feel free to reach me at my discord. **@floatn**
 
 <h3 align="left"></h3>
 <p align="left">
